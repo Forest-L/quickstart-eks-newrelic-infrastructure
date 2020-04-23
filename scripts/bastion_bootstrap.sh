@@ -3,7 +3,6 @@
 # authors: tonynv@amazon.com, sancard@amazon.com, ianhill@amazon.com
 # NOTE: This requires GNU getopt. On Mac OS X and FreeBSD you must install GNU getopt and mod the checkos function so that it's supported
 
-
 # Configuration
 PROGRAM='Linux Bastion'
 

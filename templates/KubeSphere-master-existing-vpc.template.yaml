@@ -276,3 +276,5 @@ Outputs:
     Value: !GetAtt EKSStack.Outputs.KubeConfigPath
   BastionIP:
     Value: !GetAtt EKSStack.Outputs.BastionIP
+
+    
