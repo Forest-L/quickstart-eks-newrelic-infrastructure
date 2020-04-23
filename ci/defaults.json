@@ -16,7 +16,7 @@
         "ParameterValue": "$[taskcat_autobucket]"
     },
     {
-        "ParameterKey": "NewRelicLicenseKey",
+        "ParameterKey": "KubeSphereLicenseKey",
         "ParameterValue": "OVERRIDE"
     }
 ]
